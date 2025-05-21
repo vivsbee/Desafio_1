@@ -1,12 +1,14 @@
-# React + Vite
+# 📘 Desafio 1 - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una presentación breve sobre el juego "The sims 4" que permite conocer y tal vez generar interes en el mismo, inspiración de la indicación 'hacer una tarjeta de presentación', esta fue desarrollada con React.
 
-Currently, two official plugins are available:
+# 🛠️ Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+JavaScript, React, Proyecto Vite, HTML5, CSS3.
 
-## Expanding the ESLint configuration
+# Autor(es)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Realizado por: Lina Viviana Garnica Gómez
+
+<p>Si le gustó el contenido del repositorio, ¡apóyanos dando una ⭐ al proyecto!</p>
+<p>Y si no le gustó profe, lloraré, mentiras no jasjdskajd</p>
